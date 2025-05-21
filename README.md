@@ -22,7 +22,7 @@ functional-diversity/
 ```
 
 ## Dependencies
-This project was run in a containerized environment using Docker. A pre-built `Dockerfile` is included to simplify installation of Psi4 and other dependencies.
+This project was run in a containerized environment using Docker. A pre-built `Dockerfile` is included to simplify installation of Psi4 and other dependencies: psi4 numpy rdkit matplotlib pandas scipy
 
 ## License
 MIT License
