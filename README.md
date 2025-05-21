@@ -14,7 +14,7 @@ This project compares the electrostatic fields of molecules to identify structur
 ```
 functional-diversity/
 ├── scripts/
-│ └── functional_diversity.py
+│ └── esf_unique_regions.py
 ├── Dockerfile
 ├── README.md
 ├── .gitignore
