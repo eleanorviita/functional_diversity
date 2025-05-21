@@ -1,0 +1,6 @@
+Molecule_A,Unique_SMILES,Num_Unique_SMILES
+CC12CSP(=S)(SC1)SC2,"CS.CS[PH](=S)S, S=PS, CS.S=PS, PS.[H]CC.[H]CS, CC.CS.P=S, [H]CCC.[H]CS, PS.[H]C",7
+CCCCCC(O)\C=C/C1C2CC(CO2)C1C\C=C\CCCC(O)=O,"[H]CC([H])C=C, [H]CC([H])CC, [H]CC, CC.[H]C",4
+OC(=O)CCc1ccccc1,"[H]OCC, CC.[H]O",2
+[Se](c1ccccc1)c1ccccc1,"cc.cccc, [H]cccc, cc.cc, [H]c.cc",4
+,,
