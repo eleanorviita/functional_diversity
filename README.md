@@ -8,7 +8,7 @@ This project compares the electrostatic fields of molecules to identify structur
 - List-to-list field alignment and overlap comparison
 - Unique field region mapping to atoms
 - SMILES generation and visualisation of unique motifs
-- Results saved as annotated CSV and image files
+- Results saved as CSV with unique SMILES for each molecule and png visualisation for each molecule 
 
 ## Project Structure
 ```
